@@ -1,0 +1,11 @@
+{
+    "prefix": "!",
+    "token": "DISCORD BOT TOKEN HERE",
+
+    "mysql":{
+        "host": "IP ADDRESS HERE",
+        "user": "USERNAME HERE",
+        "password": "PASSWORD HERE",
+        "database": "ERRORL33CH"
+    }
+}
